@@ -9,3 +9,4 @@ Our dedicated team has successfully developed an advanced "Head Counter" system 
 📍 Dual-Door Capability: The Head Counter is designed to support two doors simultaneously, allowing for accurate counting of the total number of people entering or leaving through multiple entrances.
 
 🔗 Stay tuned as we continue to explore the frontiers of technology through innovation, teamwork, and unwavering dedication! 🌐
+![Analog_Computer](https://github.com/pasiramavishan/myImages/blob/main/headcounter.jpeg)
